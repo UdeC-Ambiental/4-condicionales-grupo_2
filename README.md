@@ -47,9 +47,9 @@ Archivo base: `data/muestras_calidad_agua.csv`
 |-----------|-------------|-------------|
 | `0_ejemplo_clase_condicionales.ipynb` | Ejemplo completo de la clase | Todos |
 | `reto1_temperatura.ipynb` | Clasificación térmica y riesgo | Lina |
-| `reto2_ph.ipynb` | Evaluación de pH y alerta química | Mariana y jorge  |
+| `reto2_ph.ipynb` | Evaluación de pH y alerta química | Mariana  |
 | `reto3_oxigeno.ipynb` | Análisis biológico por oxígeno | Emily |
-| `reto4_integracion.ipynb` | Diagnóstico final integrando variables | Paola |
+| `reto4_integracion.ipynb` | Diagnóstico final integrando variables | Paola y Jorge |
 
 **Entrega:** cada estudiante descarga su notebook (**File → Download**) y lo entrega por Moodle o lo sube a un fork.
 
